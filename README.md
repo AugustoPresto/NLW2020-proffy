@@ -16,3 +16,14 @@ A trilha Omnistack ⚛️
 A trilha para aqueles que já dominam as tecnologias básicas e querem avançar para o uso de novas bibliotecas e até mesmo para o desenvolvimento mobile é guiada pelo CTO da Rocketseat, Diego Fernandes.
 
 As aulas são mais dinâmicas, passando mais rápido por alguns conceitos que já é pressuposto que os participantes dominam, mas sem deixar de explicar os conceitos mais relevantes. As tecnologias de front-end que se diferem das anteriores são o React e React Native.
+
+Desafios a completar após o término da aplicação:
+01 - Página de sucesso
+- Mostrar página de sucesso após o cadastro do proffy
+- aguardar 2 segundos na página e redirecionar para a listagem dos proffys, com filtro
+    - use setTimeout para aguardar os 2 segundos
+    - location.href = ""
+
+02 - Correção de bugs
+- Não permitir o usuário colocar um novo campo de dia e horário, se o dia e hora anterior estiver vazio
+- Funcionalidade de deletar um campo de dia e hora
